@@ -1,4 +1,7 @@
-body {
-    background-color: #00ADB5;
-    font-style: italic;
-}
+    body {
+        background-color: #00ADB5;
+        font-style: italic;
+        background-image: url("https://images7.alphacoders.com/555/thumbbig-555562.webp");
+        background-size: cover;
+        /* background-image: -moz-repeating-linear-gradient(darkblue); */
+    }
